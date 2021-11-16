@@ -1,4 +1,4 @@
-train: ../yolov5/chess_object_detection-main/chesstrain/images
+train: ../yolov5/chess_object_detection-main/chess/train/images
 val: ../yolov5/chess_object_detection-main/chess/valid/images
 
 nc: 13
