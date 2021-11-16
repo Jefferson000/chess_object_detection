@@ -1,5 +1,18 @@
-train: ../train/images
-val: ../valid/images
+train: ../chess_object_detection-main/chesstrain/images
+val: ../chess_object_detection-main/chess/valid/images
 
 nc: 13
-names: ['bishop', 'black-bishop', 'black-king', 'black-knight', 'black-pawn', 'black-queen', 'black-rook', 'white-bishop', 'white-king', 'white-knight', 'white-pawn', 'white-queen', 'white-rook']
+names: 
+- bishop
+- black-bishop
+- black-king
+- black-knight
+- black-pawn
+- black-queen
+- black-rook
+- white-bishop
+- white-king
+- white-knight
+- white-pawn
+- white-queen
+- white-rook
