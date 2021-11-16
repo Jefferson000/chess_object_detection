@@ -1,5 +1,5 @@
-train: ../chess_object_detection-main/chesstrain/images
-val: ../chess_object_detection-main/chess/valid/images
+train: ../yolov5/chess_object_detection-main/chesstrain/images
+val: ../yolov5/chess_object_detection-main/chess/valid/images
 
 nc: 13
 names: 
